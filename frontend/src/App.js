@@ -27,7 +27,7 @@ function App() {
           </Container>
         </main>
         <footer>
-          <div className='text-center'>All Rights Reserved  &copy;Desiree' Steffen 2022</div>
+          <div className='text-center'>All Rights Reserved  &copy;Desiree' Steffen 2022 Project Zero</div>
         </footer>
       </div>
     </BrowserRouter>
