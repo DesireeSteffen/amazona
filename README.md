@@ -30,5 +30,20 @@
     3.  use state hooks
     4.  use effect hooks
     5.  use reducer hooks
-9.  
-10.  
+9.  Mange State by a Reducer Hook
+    1. define reducer
+    2. update fetch data
+    3. get the state from the useReducer
+10.  Add bootstrap UI Framework.
+    1.  npm install react-bootstrap bootstrap
+    2.  update App.js
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
