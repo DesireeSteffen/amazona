@@ -8,55 +8,60 @@
 4. Create Git Repository
 5. Added the featured products to the page
 6. Add Routing
-    1. npm i react-router-dom
-    2. create the route for the home screen
-    3. create a router for the product screen
+   1. npm i react-router-dom
+   2. create the route for the home screen
+   3. create a router for the product screen
 7. Create Node.js Server
-    1.  run npm init in the root folder
-    2.  Update package.json set type: module
-    3.  Add .js to imports
-    4.  npm install express
-    5.  create server.js
-    6.  add start command as node backend/server.js from 
-    7.  require express
-    8.  create a route for / return backend is ready 
-    9.  move products.js from frontend to backend
-    10. create a route for /API/products 
-    11. return products
-    12. run npm start
-8.  Fetch Products from the Backend
-    1.  set proxy in package.json
-    2.  npm install Axios
-    3.  use state hooks
-    4.  use effect hooks
-    5.  use reducer hooks
-9.  Mange State by a Reducer Hook
-    1. define reducer
-    2. update fetch data
-    3. get the state from the useReducer
+   1. run npm init in the root folder
+   2. Update package.json set type: module
+   3. Add .js to imports
+   4. npm install express
+   5. create server.js
+   6. add start command as node backend/server.js from
+   7. require express
+   8. create a route for / return backend is ready
+   9. move products.js from frontend to backend
+   10. create a route for /API/products
+   11. return products
+   12. run npm start
+8. Fetch Products from the Backend
+   1. set proxy in package.json
+   2. npm install Axios
+   3. use state hooks
+   4. use effect hooks
+   5. use reducer hooks
+9. Mange State by a Reducer Hook
+   1. define reducer
+   2. update fetch data
+   3. get the state from the useReducer
 10. Add bootstrap UI Framework.
-    1.  npm install react-bootstrap bootstrap
-    2.  update App.js
+    1. npm install react-bootstrap bootstrap
+    2. update App.js
 11. Create Product and Rating Component
-    1.  create Rating component
-    2.  Create Product Component
-    3.  Use Rating Component in Product Component
+    1. create Rating component
+    2. Create Product Component
+    3. Use Rating Component in Product Component
 12. Create Product Details Screen
-    1.  fetch product from the backend
-    2.  create 3 columns for image, info and action
+    1. fetch product from the backend
+    2. create 3 columns for image, info and action
 13. Create Loading and Message Component
-    1.  create Loading component
-    2.  use spinner component
-    3.  create message component
-    4.  create utils.js to define getError function
+    1. create Loading component
+    2. use spinner component
+    3. create message component
+    4. create utils.js to define getError function
 14. Implement Add to Cart
-    1.  Create React Context
-    2.  define reducer
-    3.  create store provider
-    4.  implement add to cart button click handler
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+    1. Create React Context
+    2. define reducer
+    3. create store provider
+    4. implement add to cart button click handler
+15. Complete Add to Cart
+    1. check exist item in the cart
+    2. check count in stock in backend
+16. Create Cart Screen
+    1. Create 2 columns
+    2. display items list
+    3. create action column
+17.
+18.
+19.
+20.
