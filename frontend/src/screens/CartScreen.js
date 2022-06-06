@@ -33,7 +33,7 @@ export default function CartScreen() {
     ctxDispatch({ type: 'CART_REMOVE_ITEM', payload: item });
   };
   const checkoutHandler = () => {
-    navigate('/singnin?redirect=/shipping');
+    navigate('/signin?redirect=/shipping');
   };
   return (
     <div>
