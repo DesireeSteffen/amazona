@@ -33,7 +33,7 @@
 9. Mange State by a Reducer Hook
    1. define reducer
    2. update fetch data
-   3. get the state from the useReducer
+   3. get the state from the use of Reducer
 10. Add bootstrap UI Framework.
     1. npm install react-bootstrap bootstrap
     2. update App.js
@@ -97,9 +97,15 @@
     1. create input forms
     2. handle submit
     3. create backend API
-26.
-27.
-28.
+26. Implement Select Payment Method Screen
+    1. create input forms
+    2. handle submit
+27. Create Place Order Screen
+    1. show cart items, payment and address
+    2. handle place order action create order to create API
+28. Create Place Order Action
+    1. handle place order action
+    2. create order to create API
 29.
 30.
 31.
