@@ -1,7 +1,5 @@
 # Amazona
 
-#Lessons
-
 1. Introduction
 2. Install Tools
 3. Create React App
@@ -105,11 +103,30 @@
     2. handle place order action create order to create API
 28. Create Place Order Action
     1. handle place order action
-    2. create order to create API
-29.
-30.
-31.
-32.
+    2. create order to create an API
+29. Create Order Screen
+    1. Create backend API for order/:id
+    2. fetch order API in the frontend
+    3. show order information in 2 columns
+30. Pay Order By PayPal
+    1. generate PayPal client id
+    2. create API to return client id
+    3. install react-PayPal-js
+    4. use PayPalScriptProvider in index.js
+    5. use usePayPalScriptReducer in order Screen
+    6. implement loadPayPalScript function
+    7. render PayPal button
+    8. implement approve payment function
+    9. create pay order API in backend
+31. Display Order History
+    1. create order screen
+    2. create order history API
+    3. use API in the frontend
+32. Create Profile Screen
+    1. get user info from the context
+    2. show user information
+    3. create user update API
+    4. update user info
 33.
 34.
 35.
