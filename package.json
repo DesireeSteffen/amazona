@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/DesireeSteffen/amazona/issues"
   },
-  "homepage": "https://github.com/DesireeSteffen/amazona#readme"
+  "homepage": "https://github.com/DesireeSteffen/amazona#readme",
+  "dependencies": {
+    "debug": "^4.3.4"
+  }
 }
