@@ -117,7 +117,7 @@
     6. implement loadPayPalScript function
     7. render PayPal button
     8. implement approve payment function
-    9. create pay order API in backend
+    9. create pay order API in the backend
 31. Display Order History
     1. create order screen
     2. create order history API
@@ -127,7 +127,14 @@
     2. show user information
     3. create user update API
     4. update user info
-33.
+33. Publish to Heroku
+    1.  create and config node project
+    2.  serve build folder in the frontend folder
+    3.  Create Heroku account
+    4.  connect it to Github
+    5.  create MongoDB atlas database
+    6.  set database connection in Heroku env variables
+    7.  commit and push
 34.
 35.
 36.
